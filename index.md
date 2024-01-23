@@ -8,7 +8,7 @@ _Italic_
 **Nested _italics_**
 Trying to use some<sub>subscript</sub> and some<sup>superscript</sup>
 > A wise man once said, that everything sounds wise if you quote it
-```
+``` javascript
 Function SuperImportant({java, script, style}) {
  Console.log("I'm Quoting code");
 }
