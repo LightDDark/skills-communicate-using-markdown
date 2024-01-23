@@ -30,7 +30,8 @@ I like the `#000000` color and the `#ffd700` color - you can't see it because it
      - one
      - we can also have some tasks:
        - [ ] some will be uncompleted
-       - [x] and some will be completed  
+       - [x] and some will be completed
+       - [ ] This is nice, actually   
 
 :+1:[^1]
 
