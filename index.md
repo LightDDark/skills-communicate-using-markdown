@@ -24,7 +24,7 @@ I like the `#000000` color and the `#ffd700` color - you can't see it because it
 1. right?
 2. This suddenly turned
 3. Into an ordered list
-4. That has unordered one inside it:
+4. That has an unordered one inside it:
    - like
    - this
      - one
